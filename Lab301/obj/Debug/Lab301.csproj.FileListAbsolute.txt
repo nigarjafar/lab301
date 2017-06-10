@@ -1,0 +1,10 @@
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\bin\Debug\Lab301.exe.config
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\obj\Debug\Lab301.csprojResolveAssemblyReference.cache
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\obj\Debug\Lab301.Form1.resources
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\obj\Debug\Lab301.Properties.Resources.resources
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\obj\Debug\Lab301.csproj.GenerateResource.Cache
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\bin\Debug\Lab301.exe
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\bin\Debug\Lab301.pdb
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\obj\Debug\Lab301.exe
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\obj\Debug\Lab301.pdb
+c:\users\nigar\documents\visual studio 2015\Projects\Lab301\Lab301\obj\Debug\Lab301.Form2.resources
